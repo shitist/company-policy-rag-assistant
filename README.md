@@ -1,3 +1,22 @@
+---
+title: Company Policy RAG Assistant
+emoji: 🔎
+colorFrom: blue
+colorTo: gray
+sdk: docker
+app_port: 7860
+pinned: false
+license: mit
+tags:
+  - rag
+  - question-answering
+  - streamlit
+  - chromadb
+  - sentence-transformers
+  - multilingual
+  - japanese
+---
+
 # Company Policy RAG Assistant
 
 Policy search with retrieval, citations, and source inspection.
