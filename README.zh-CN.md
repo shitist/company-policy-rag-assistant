@@ -78,6 +78,15 @@ streamlit run app.py
 
 没有 Gemini API key 也可以运行。未配置 key 时，应用会自动进入 mock mode。
 
+## Docker
+
+```powershell
+docker build -t company-policy-rag-assistant .
+docker run --rm -p 7860:7860 company-policy-rag-assistant
+```
+
+打开 `http://localhost:7860`。
+
 ## 可选 Gemini 配置
 
 复制环境变量样例：
