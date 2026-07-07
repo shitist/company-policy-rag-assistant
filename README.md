@@ -218,3 +218,7 @@ screenshots/
 - Mock mode uses fixed answers for predictable walkthroughs.
 - Role filtering is retrieval metadata filtering; production authorization would be implemented separately.
 - Gemini integration is an optional provider path.
+
+## License
+
+MIT License. See [LICENSE](LICENSE).

@@ -218,3 +218,7 @@ screenshots/
 - Mock mode 使用固定回答，便于稳定 walkthrough。
 - Role filter 是 retrieval metadata filtering；生产级授权应独立实现。
 - Gemini integration 是可选 provider path。
+
+## License
+
+MIT License. See [LICENSE](LICENSE).

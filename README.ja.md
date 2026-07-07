@@ -218,3 +218,7 @@ screenshots/
 - Mock mode は安定した walkthrough のために固定回答を使用します。
 - Role filter は retrieval metadata filtering です。Production authorization は別途実装します。
 - Gemini integration は任意の provider path です。
+
+## License
+
+MIT License. See [LICENSE](LICENSE).
