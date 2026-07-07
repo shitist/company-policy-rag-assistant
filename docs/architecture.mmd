@@ -1,0 +1,14 @@
+flowchart LR
+    A["Markdown Policy Documents"] --> B["load_docs.py"]
+    B --> C["chunk_docs.py"]
+    C --> D["Local Embeddings"]
+    D --> E["Chroma Collection"]
+    F["Streamlit UI"] --> G["retrieve.py"]
+    G --> E
+    G --> H["Retrieved Chunks + Metadata"]
+    H --> I["generate.py"]
+    I --> J["Mock LLM Mode"]
+    I --> K["Optional Gemini Provider"]
+    J --> L["Answer + Citations"]
+    K --> L
+    L --> F

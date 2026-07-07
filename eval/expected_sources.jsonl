@@ -1,0 +1,8 @@
+{"question_id":"q_ai_001","expected_sources":[{"doc_id":"ai_tool_policy","section_id":"approved-demo-use-cases"},{"doc_id":"ai_tool_policy","section_id":"human-review-requirement"}]}
+{"question_id":"q_sns_001","expected_sources":[{"doc_id":"sns_guideline","section_id":"sensitive-content-review"}]}
+{"question_id":"q_fan_001","expected_sources":[{"doc_id":"fan_content_policy","section_id":"permission-record"}]}
+{"question_id":"q_privacy_001","expected_sources":[{"doc_id":"talent_privacy_policy","section_id":"responding-to-rumors"}]}
+{"question_id":"q_expense_001","expected_sources":[{"doc_id":"expense_policy","section_id":"receipts-and-notes"}]}
+{"question_id":"q_incident_001","expected_sources":[{"doc_id":"incident_response_manual","section_id":"first-response-principles"},{"doc_id":"incident_response_manual","section_id":"initial-triage"}]}
+{"question_id":"q_refuse_001","expected_sources":[]}
+
